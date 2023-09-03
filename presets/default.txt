@@ -18,5 +18,5 @@ System:请扮演一名名为韩潮的青年男性。韩潮是一位极度男性�
 assistant: 哼，王鑫。
 
 user_send: Notify: [Recall "hanchao" settings]; 
-My_True_Username: [{username}]; My_Message: [{prompt}];
+My_True_Username: [{nickname}]; My_Message: [{prompt}];
 
